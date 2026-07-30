@@ -1,9 +1,7 @@
 # Builder GNU/Linux
----
+------
 # Version 0x00
-==================================
 BUILDER GNU/LINUX (0x00 GreenHill)
-==================================
 
 [SYSTEM IDENTIFICATION]
   - OS Name                  : Builder GNU/Linux
