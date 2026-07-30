@@ -90,3 +90,8 @@ BUILDER GNU/LINUX (0x00 GreenHill)
 - [ ] Graphical iso installer
 - [ ] Declarative package files (like NixOS)
 - [ ] A custom version of fastfetch/neofetch
+
+---
+
+Builder GNU/Linux is a long-term personal project created to explore Linux internals,
+system customization, and software development while documenting every step of its evolution.
