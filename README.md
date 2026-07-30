@@ -1,9 +1,9 @@
 # Builder GNU/Linux
 ---
 # Version 0x00
-================================================================================
-                    BUILDER GNU/LINUX (0x00 GreenHill)
-================================================================================
+==================================
+BUILDER GNU/LINUX (0x00 GreenHill)
+==================================
 
 [SYSTEM IDENTIFICATION]
   • OS Name                  : Builder GNU/Linux
@@ -47,5 +47,5 @@
   • Network Management       : iproute2 (/usr/sbin/ip)
   • Network Services/DHCP    : dhcpcd & systemd-networkd ready
 
-================================================================================
+==================================
 ---
