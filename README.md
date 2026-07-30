@@ -1,4 +1,7 @@
 # Builder GNU/Linux
+
+Builder GNU/Linux is a personal Linux distribution based on Debian 13 (Trixie), designed to be minimal, manual, and optimized for software development. Instead of targeting a wide audience, Builder is built around my own workflow, providing a clean environment with custom tools and scripts that evolve alongside the project.
+
 ------
 # Version 0x00
 BUILDER GNU/LINUX (0x00 GreenHill)
