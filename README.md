@@ -67,14 +67,14 @@ BUILDER GNU/LINUX (0x00 GreenHill)
 ------
 
 # Roadmap
-[x] Make system bootable
-[x] Install GRUB 2
-[x] UEFI/Legacy BIOS support
-[x] Basic identity
-[ ] Advanced identity
-[ ] Installable
-[ ] Custom commands
-[ ] TUI Installer
-[ ] Graphical iso installer
-[ ] Declarative package files (like NixOS)
-[ ] A custom version of fastfetch/neofetch
+- [x] Make system bootable
+- [x] Install GRUB 2
+- [x] UEFI/Legacy BIOS support
+- [x] Basic identity
+- [ ] Advanced identity
+- [ ] Installable
+- [ ] Custom commands
+- [ ] TUI Installer
+- [ ] Graphical iso installer
+- [ ] Declarative package files (like NixOS)
+- [ ] A custom version of fastfetch/neofetch
