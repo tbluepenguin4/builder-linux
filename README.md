@@ -10,12 +10,15 @@ Builder GNU/Linux is a personal Linux distribution based on Debian 13 (Trixie), 
 - Learn how Linux distributions are built.
 - Develop custom tools and utilities.
 - Document every important design decision.
+- Prioritize simplicity over unnecessary complexity.
 
 ---
 
 # Project Status
-Tested: Not properly
-Installable: Untested
+Project Stage = Early Development (0x00)
+Boot Status   = Live ISO boots successfully
+Installation  = Not implemented yet
+Stability     = Experimental
 
 ------
 # Version 0x00
@@ -72,8 +75,11 @@ BUILDER GNU/LINUX (0x00 GreenHill)
 - [x] UEFI/Legacy BIOS support
 - [x] Basic identity
 - [ ] Advanced identity
+
+## Near future
 - [ ] Installable
 - [ ] Custom commands
+## Future
 - [ ] TUI Installer
 - [ ] Graphical iso installer
 - [ ] Declarative package files (like NixOS)
